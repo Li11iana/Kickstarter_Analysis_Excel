@@ -14,7 +14,7 @@ To have an initial sense of the data a series of pivot tables and graphs were ob
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
-
+https://github.com/Li11iana/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 ### Challenges and Difficulties Encountered
 
 ## Results
